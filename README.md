@@ -1,11 +1,8 @@
 ## Eae galera! Eu sou o George Boente 👋
 
 ✨ Dev Full Stack (Python | Java | SQL)
-
 🌱 Universitário em Tecnologia de Desenvolvimento Mobile 
-
 🔭 Dono da [Assistencia Técnica Bozten](https://www.instagram.com/bozten.tec/) 
-
 ⚡ [Meu último projeto](https://github.com/Boenteprog/exercises-hashtag) 
 
 Sou um entusiasta no mundo da tecnologia, com  foco em aprofundamento de facilitações tecnologicas com desenvolvimento de Inteligencias Artificiais e Contratos Inteligentes na Web3. 
