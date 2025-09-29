@@ -5,7 +5,7 @@
 <br>🔭 Dono da [Assistencia Técnica Bozten](https://www.instagram.com/bozten.tec/) 
 <br>⚡ [Meu último projeto](https://github.com/Boenteprog/exercises-hashtag) 
 
-Sou um entusiasta no mundo da tecnologia, com  foco em aprofundamento de facilitações tecnologicas com desenvolvimento de Inteligencias Artificiais e Contratos Inteligentes na Web3. 
+Sou um entusiasta, atuante no mundo da tecnologia, com foco em aprofundamento de facilitações tecnologicas com desenvolvimento de Inteligencias Artificiais e Contratos Inteligentes na Web3. 
 
 <!--
 **Boenteprog/Boenteprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
