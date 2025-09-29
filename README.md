@@ -1,5 +1,10 @@
 ## Eae galera! Eu sou o George Boente 👋
 
+✨ Dev Full Stack (Python | Java | SQL) 
+🌱 Universitário em Tecnologia de Desenvolvimento Mobile 
+🔭 Dono da [Assistencia Técnica Bozten](https://www.instagram.com/bozten.tec/) 
+⚡ Meu último projeto 
+
 <!--
 **Boenteprog/Boenteprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
