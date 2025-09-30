@@ -4,9 +4,18 @@
 <br>🌱 Universitário em Tecnologia de Desenvolvimento Mobile 
 <br>🔭 Dono da [Assistencia Técnica Bozten](https://www.instagram.com/bozten.tec/) 
 
-Sou um entusiasta, atuante no mundo da tecnologia, 
-<br>com foco em facilitações tecnologicas desenvolvidas 
-<br>por **IA** e Contratos Inteligentes na **Web3**.
+Sou um entusiasta de tecnologia que vem conectando **empreendedorismo e inovação**.  
+
+## 📱 Especialidades 
+- Desenvolvimento Full Stack (Python, JavaScript, C, SQL)  
+- Mobile (Kotlin, Swift)  
+- Manutenção e reparo de dispositivos  
+- Projetos de **IA aplicada a negócios**  
+- Gestão e liderança de times  
+
+## 🚀 O que me motiva 
+Acredito que o mundo da tecnologia pode ser **democrático e acessível**.   
+Minha motivação está em **impactar com a inovação para transformar desafios em soluções reais**.  
 
 ## ⚡ Ultimo projeto:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Boenteprog&repo=exercises-hashtag&theme=dark)](https://github.com/falvojr/speech2learning)
