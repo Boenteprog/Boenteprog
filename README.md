@@ -1,11 +1,21 @@
-## Eae galera! Eu sou o George Boente 👋
+## Eae galera! Sou o George Luiz Boente 👋
 
-✨ Dev Full Stack (Python | Java | SQL)
+✨ Dev Full Stack (Python | JavaScript | SQL | C)
 <br>🌱 Universitário em Tecnologia de Desenvolvimento Mobile 
 <br>🔭 Dono da [Assistencia Técnica Bozten](https://www.instagram.com/bozten.tec/) 
-<br>⚡ [Meu último projeto](https://github.com/Boenteprog/exercises-hashtag) 
 
-Sou um entusiasta, atuante no mundo da tecnologia, com foco em aprofundamento de facilitações tecnologicas com desenvolvimento de Inteligencias Artificiais e Contratos Inteligentes na Web3. 
+Sou um entusiasta, atuante no mundo da tecnologia, 
+<br>com foco em facilitações tecnologicas desenvolvidas 
+<br>por **IA** e Contratos Inteligentes na **Web3**.
+
+## ⚡ Ultimo projeto:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Boenteprog&repo=exercises-hashtag&theme=dark)](https://github.com/falvojr/speech2learning)
+
+## Linguagens mais usadas:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boenteprog&layout=compact&theme=dark)
+
+## 📫 Redes
+[LinkedIn](https://www.linkedin.com/in/georgeboente/)
 
 <!--
 **Boenteprog/Boenteprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
