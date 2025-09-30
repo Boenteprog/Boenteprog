@@ -1,6 +1,6 @@
 ## Eae galera! Sou o George Luiz Boente 👋
 
-✨ Dev Full Stack (Python | JavaScript | SQL | C )
+✨ Dev Full Stack ( Python | JavaScript | SQL | C )
 <br>🌱 Universitário em Tecnologia de Desenvolvimento Mobile 
 <br>🔭 Dono da [Assistencia Técnica Bozten](https://www.instagram.com/bozten.tec/) 
 
