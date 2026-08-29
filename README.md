@@ -17,12 +17,6 @@ Sou um entusiasta de tecnologia que vem conectando **empreendedorismo e inovaç�
 Acredito que o mundo da tecnologia pode ser **democrático e acessível**.   
 Minha motivação está em **impactar com a inovação para transformar desafios em soluções reais**.  
 
-## ⚡ Ultimo projeto:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Boenteprog&repo=exercises-hashtag&theme=dark)](https://github.com/falvojr/speech2learning)
-
-## Linguagens mais usadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boenteprog&layout=compact&theme=dark)
-
 
 <!--
 **Boenteprog/Boenteprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
