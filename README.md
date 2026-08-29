@@ -8,7 +8,7 @@ Sou um entusiasta de tecnologia que vem conectando **empreendedorismo e inovaç�
 
 ## 📱 Especialidades 
 - Desenvolvimento Full Stack (Python, JavaScript, C, SQL)  
-- Mobile (Kotlin, Swift)  
+- Mobile (Kotlin)  
 - Manutenção e reparo de dispositivos  
 - Projetos de **IA aplicada a negócios**  
 - Gestão e liderança de times  
